@@ -17,7 +17,7 @@ print("the list length of the colors in puzzle one :",len(colors_of_puzzle1))
 print("the colors of puzzle one : ",colors_of_puzzle1 )
 pies1 = sliceGenerator(colors_of_puzzle1)
 print(len(pies1))
-for i in range(30):
+for i in range(100):
     print(pies1)
 
 
